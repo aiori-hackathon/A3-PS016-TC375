@@ -1,0 +1,5 @@
+speed_label,policy,handover_failures_mean,ping_pong_mean,interruption_mean_s,throughput_proxy_mean,handover_events_mean
+high,signal_baseline,0.6,0.8,0.386,63.124787739493776,2.8
+high,supervised_ml,0.8,1.2,0.472,63.0782587419392,3.2
+low,signal_baseline,0.0,1.2,0.256,63.27583846698808,3.2
+low,supervised_ml,0.6,4.0,0.6420000000000001,63.12163081097589,6.0
